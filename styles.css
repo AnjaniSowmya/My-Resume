@@ -35,24 +35,28 @@ body {
     
   }
   .card1 {
-    padding: 1.5rem;
+    
     text-align: center;
     background-color: rgb(253, 231, 240);
+    border-radius: 5px;
   }
   .card2 {
-    padding: 1.5rem;
+    
     background-color: rgb(253, 231, 240);
   }
   .card3 {
-    padding: 1.5rem;
+    
     background-color: rgb(253, 231, 240);
   }
   .card4 {
-    padding: 1.5rem;
+    
     background-color: rgb(253, 231, 240);
   }
   .card {
     padding: 1.5rem;
+    background-color: rgb(253, 231, 240);
+  }
+  .card-body{
     background-color: rgb(253, 231, 240);
   }
   .name{
@@ -63,9 +67,4 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 2rem;
   }
-  li.list {
-    display: table;
-    width: 100%;
-    text-align: center;
-  }
-  
+ 

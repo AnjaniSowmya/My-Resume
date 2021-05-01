@@ -1,0 +1,71 @@
+body {
+    background-color: rgb(245, 99, 155);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  h1 {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration:coral;
+    text-indent: 1px;
+    font-style: oblique;
+    font-size: 3rem;
+    padding-bottom: 12px;
+  }
+  h2 {
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+  }
+  h3 {
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+  }
+  h4 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+  }
+  h5 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+  }
+  p {
+    font-family: 'Times New Roman', Times, serif;
+    
+  }
+  .card1 {
+    padding: 1.5rem;
+    text-align: center;
+    background-color: rgb(253, 231, 240);
+  }
+  .card2 {
+    padding: 1.5rem;
+    background-color: rgb(253, 231, 240);
+  }
+  .card3 {
+    padding: 1.5rem;
+    background-color: rgb(253, 231, 240);
+  }
+  .card4 {
+    padding: 1.5rem;
+    background-color: rgb(253, 231, 240);
+  }
+  .card {
+    padding: 1.5rem;
+    background-color: rgb(253, 231, 240);
+  }
+  .name{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+  }
+  .course{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+  }
+  li.list {
+    display: table;
+    width: 100%;
+    text-align: center;
+  }
+  
